@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nebulaAves
+- 👋 Hi, I’m @nebulaAves / Rosi / Sebastian
 - 👀 I’m interested in rust, birds, fixing all the things
 - 🌱 I’m currently learning rust, patience, cloud infrastructure
 - 💞️ I’m looking to collaborate on citizen science projects
