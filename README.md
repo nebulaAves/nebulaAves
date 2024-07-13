@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nebulaAves
 - 👀 I’m interested in rust, birds, fixing all the things
-- 🌱 I’m currently learning rust, patience, cloud infrastructure
+- 🌱 I’m currently learning typescript, patience, cloud infrastructure
 - 💞️ I’m looking to collaborate on citizen science projects
 - 📫 How to reach me: basti@systemli.org (also for recruiters ;))
 - 😄 Pronouns: er / he / on
